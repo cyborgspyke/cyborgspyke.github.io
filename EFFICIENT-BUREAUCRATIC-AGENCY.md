@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: defult
 title: "EBA"
 permalink: /EFFICIENT-BUREAUCRATIC-AGENCY
 ---
