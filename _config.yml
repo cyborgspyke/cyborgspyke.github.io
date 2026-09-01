@@ -1,1 +1,7 @@
 url: https://cyborgspyke.github.io/EFFICIENT-BUREAUCRATIC-AGENCY
+
+defaults:
+  - scope:
+      path: "EFFICIENT-BUREAUCRATIC-AGENCY"
+    values:
+      layout: agency-jekyll-theme-gh-pages
