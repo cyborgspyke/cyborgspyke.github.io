@@ -4,4 +4,4 @@ defaults:
   - scope:
       path: "EFFICIENT-BUREAUCRATIC-AGENCY"
     values:
-      layout: agency-jekyll-theme-gh-pages
+      layout: agency-jekyll-theme-gh-pages/agency-jekyll-theme-gh-pages/_layouts/default.html
